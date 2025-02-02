@@ -10,6 +10,9 @@
 <p>Since these factors were now quantitative representatives most important and relevant for determining fraudulent transactions, I then created features and label variables on this data to prepare for splitting into training and testing datasets.</p>
 <p>After splitting the data into training and testing datasets, I scaled the features variables to prepare for training the Logistic Regression model, fit the model on the training data, and scored the model on the training and testing data.</p>
 
+<h2>Results</h2>
+<p></p>
+
 <h2>Libraries Used</h2>
 <ul>
   <li>seaborn</li>
