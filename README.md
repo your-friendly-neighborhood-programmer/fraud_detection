@@ -11,7 +11,13 @@
 <p>After splitting the data into training and testing datasets, I scaled the features variables to prepare for training the Logistic Regression model, fit the model on the training data, and scored the model on the training and testing data.</p>
 
 <h2>Results</h2>
-<p></p>
+<p>This model is extremely accurate and precise, perfectly identifying all positive instances of fraud.</p>
+<ul>
+  <li>Accuracy: 0.9985333333333334</li>
+  <li>Precision: 0.9985333333333334</li>
+  <li>Recall: 1.0</li>
+</ul>
+<img src='./fraud_detection/confusion_matrix.png'></img>
 
 <h2>Libraries Used</h2>
 <ul>
