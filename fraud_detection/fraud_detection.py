@@ -53,6 +53,7 @@ print(model.coef_)
 y_pred = model.predict(X_test)
 cm = confusion_matrix(y_test, y_pred)
 sns.heatmap(cm, annot=True, fmt='d')
+plt.title('Confusion Matrix')
 plt.show()
 
 # save plot
