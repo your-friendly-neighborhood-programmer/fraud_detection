@@ -17,7 +17,7 @@
   <li>Precision: 0.9985333333333334</li>
   <li>Recall: 1.0</li>
 </ul>
-<img src='./fraud_detection/confusion_matrix.png'></img>
+<img src='./fraud_detection/confusion_matrix.png' alt='Confusion Matrix for logistic regression ml model'></img>
 
 <h2>Libraries Used</h2>
 <ul>
